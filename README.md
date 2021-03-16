@@ -67,7 +67,7 @@ Usage was more concentrated in Midtown and business areas which would suggest th
 
 ## Summary
 
-As we learned from our analysis looking the visualizations above for activities that occurred in New York City, we can summarize:
+Based on the visualizations above for activities that occurred in New York City, we can summarize:
 
 * Stalls located in heavily concentrated business areas, such as Midtown and Downtown made up the majority of the usage. 
 * Subscribers are the primary user.
