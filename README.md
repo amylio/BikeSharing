@@ -1,4 +1,4 @@
-# BikeSharing Project - A proof of concept for Des Moines, IA
+# BikeSharing Project - Proposal for Des Moines
 Create worksheets, dashboards and stories to visualize data using Tableau.
 
 ## Overview
